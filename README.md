@@ -29,7 +29,8 @@ Create a HTML file to implement form based input and output.
 ### Step 6:
 Publish the website in the given URL.
 
-## PROGRAM :<html>
+## PROGRAM :
+<html>
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -99,7 +100,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 
 
-## HOMEPAGE:![image](https://github.com/jeeva078/MathServer/assets/147048597/b468a674-baa3-47dc-bf66-b332289eeb6d)
+## HOMEPAGE:![image](https://github.com/jeeva078/MathServer/assets/147048597/9c52681d-6355-4289-b80a-9b3c89218557)
+
 
 
 
